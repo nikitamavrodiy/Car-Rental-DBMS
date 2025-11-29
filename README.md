@@ -5,3 +5,6 @@ Instructor: Prof Dr Melike Şah Direkoğlu and Assis Prof Dr Yasemin Bay Project
 Project Presentations: Between 22-30 December 2025
 
 In this project, you are asked to design and implement a database that will store all the necessary information for a specific domain. You can form groups up to 4 students. Each group will be assigned to a project domain by the course coordinator. Please add your group member names to the provided Google spreadsheet on the Moodle Webpage.
+
+
+![Uploading image.png…]()
