@@ -10,3 +10,5 @@ In this project, you are asked to design and implement a database that will stor
 
 <img width="1542" height="815" alt="image" src="https://github.com/user-attachments/assets/0959c3f5-685f-40aa-806d-ac6067c2a3e2" />
 
+# ERD Diagram
+(in progress)
