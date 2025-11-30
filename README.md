@@ -2,7 +2,9 @@
 This repository contains all work for our university Car Rental Database Management System project.
 
 CMPE343 Database Management Systems and Programming I
+
 Report Due Date: 21th of December 2025
+
 Project Presentations: Between 22-30 December 2025
 
 # ERD Diagram
