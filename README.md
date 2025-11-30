@@ -6,7 +6,7 @@ CMPE343 Database Management Systems and Programming I
 Report Due Date: 21th of December 2025
 Project Presentations: Between 22-30 December 2025
 
-#Project Instructions for Team Members
+# Project Instructions for Team Members
 Please follow these steps after joining the GitHub repository and Supabase project:
 
 1. Go to GitHub → Projects → Board
