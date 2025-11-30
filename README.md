@@ -1,5 +1,4 @@
 # Car Rental DBMS — Group Project
-This repository contains all work for our university Car Rental Database Management System project.
 
 CMPE343 Database Management Systems and Programming I
 
