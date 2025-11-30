@@ -1,4 +1,4 @@
-# Car-Rental-DBMS
+# Car Rental DBMS — Group Project
 
 CMPE343 Database Management Systems and Programming I
 Instructor: Prof Dr Melike Şah Direkoğlu and Assis Prof Dr Yasemin Bay Project (15%) Report Due Date: 21th of December 2025
