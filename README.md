@@ -1,9 +1,14 @@
 # Car Rental DBMS — Group Project
 
 CMPE343 Database Management Systems and Programming I
+- Report Due Date: 21th of December 2025
+- Project Presentations: Between 22-30 December 2025
 
-Report Due Date: 21th of December 2025
-Project Presentations: Between 22-30 December 2025
+Team members:
+- 22311523 Nikita Mavrodiy
+- 22211149 Ali Anas Nasr	
+- 22307643 Imane El Atmani	
+- 22213471 Muaz Hisham
 
 # Project Instructions for Team Members
 Please follow these steps after joining the GitHub repository and Supabase project:
