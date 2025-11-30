@@ -8,7 +8,8 @@ In this project, you are asked to design and implement a database that will stor
 
 # Relational Model
 
-<img width="1542" height="815" alt="image" src="https://github.com/user-attachments/assets/0959c3f5-685f-40aa-806d-ac6067c2a3e2" />
+<img width="1481" height="977" alt="image" src="https://github.com/user-attachments/assets/719a9056-bffe-4ad1-b61a-6f8ab1cae2e6" />
+
 <img width="1239" height="850" alt="image" src="https://github.com/user-attachments/assets/06dbd5a3-900f-40fc-91de-32bffa95a058" />
 
 
