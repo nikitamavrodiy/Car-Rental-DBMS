@@ -33,10 +33,12 @@ Please follow these steps after joining the GitHub repository and Supabase proje
 
 
 # Tasks & Next Steps
+Required Deliverables:
 
-Insert sample data (DML)
+Insert / update / delete sample data (DML)
 
-Write SQL queries (at least 15)
+Write SQL queries (at least 15) using joins, functions, subqueries, grouping, ordering
 
-Prepare report sections
-(Details on GitHub Project Board)
+Prepare report sections (Introduction, Database section, Queries section)
+
+
